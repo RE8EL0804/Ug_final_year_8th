@@ -12,7 +12,7 @@ The main objective of this project is to develop an efficient and adaptive anoma
 
 
 ## Agile Gantt chart with Project Managment
-![WhatsApp Image 2023-08-05 at 00 23 46]()
+![](https://github.com/RE8EL0804/Ug_final_year_8th/blob/master/src/asset/ghantt.png)
 ### Team Member:
 <ul><li> Angela Raj Chadha </li>
 <li>Kethamreddy Karthikeya Reddy</li></ul>
